@@ -1,6 +1,3 @@
-# GT-Coding-Boot-Camp_Project-2_ETL
-Project #2: Extract, Transform, Load
-
 GT-Coding-Boot-Camp
 GT-VIRT-ATL-DATA-PT-09-2021-U-C-C
 Project 02: ETL
@@ -10,23 +7,6 @@ Team: Good enough for Government work
 David Dam
 Louis Cheng
 Jae Park
-
-
-Proposal:
-
-What is the motivation for this project i.e. if you were going to do the analysis, why this topic?
-
-With the scarcity of enthusiast computer parts over the past year, specifically high end desktop GPUs, we would like to scrape prices from major computer hardware retailers' in order to identify when a reasonably priced (not price gouged) RTX 3090 is available for purchase.
-
-
-Two datasets (csvs, jsons, API, web scraping, etc.)
-
-We will be web scraping 2 different websites (Newegg.com and BesBuy.com) for product availability and pricing.
-
-
-What database do you plan on using?
-
-MongoDB was chosen as the final result does not require a relational database as it is merely the inventory status and prices.
 
 
 Extract:
