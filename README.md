@@ -49,4 +49,4 @@ The links provided in BestBuy's items' HREF did not have the complete URL listed
 
 Load
  
- Title, price, link, and timestamp for each item that was scraped from the websites populated dictionaries to be loaded into MongoDB. The database can then be queried to show only results with prices under a specific amount as retailers and scalpers are price gouging due to scarcity.
+ Title, price, link, and timestamp for each item that was scraped from the websites populated dictionaries to be loaded into MongoDB. The database can then be queried to show only results with prices under a specific amount as retailers and scalpers are price gouging due to scarcity, and we are not interested in seeing these overpriced listings.
