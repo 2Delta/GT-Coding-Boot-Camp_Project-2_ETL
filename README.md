@@ -29,7 +29,9 @@ What database do you plan on using?
 MongoDB was chosen as the final result does not require a relational database as it is merely the inventory status and prices.
 
 
-Extract:
+Report:
+
+Extract
 
 As both websites have fairly robust search functionality, we can search specifically for the RTX 3090 products that we are looking for. In practice, the search query URL can include an option to exclude 'out of stock' items; however, we did not exercise this option for this project as it would limit the number of results returned.
 
