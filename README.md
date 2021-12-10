@@ -3,8 +3,8 @@ Project #2: Extract, Transform, Load
 
 Team: Good enough for Government work
 
-David Dam
-Louis Cheng
+David Dam,
+Louis Cheng,
 Jae Park
 
 
